@@ -1,0 +1,12 @@
+
+header{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #f3f5f7;
+    font-style: italic;
+    font-weight: 900;
+    font-size: clamp(0.5rem , calc(1vw + 1rem), 1.5rem); 
+}
+
